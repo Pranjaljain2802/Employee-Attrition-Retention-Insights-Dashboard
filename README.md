@@ -1,4 +1,4 @@
-# HR Attrition Dashboard – Power BI Project
+# HR Attrition Dashboard – Power BI 
 
 This project is an interactive HR analytics dashboard built using Power BI to visualize and analyze employee attrition patterns. The goal is to help HR professionals make data-driven decisions to improve employee retention.
 
